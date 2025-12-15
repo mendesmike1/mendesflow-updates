@@ -1,11 +1,5 @@
 {
-  "version": "2.9.5",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v2.9.5/MendesFlow.exe",
-  "notes": "Correcoes de envios, envio em massa corrigido."
+  "version": "2.9.6",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v2.9.6/MendesFlow.exe",
+  "notes": "Teste do auto-updater."
 }
-
-
-
-
-
-
