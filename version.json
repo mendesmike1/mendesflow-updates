@@ -1,13 +1,6 @@
 {
-  "version": "3.2.9",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.2.9/Quantyx.exe"
+  "version": "3.3.0",
+  "changelog": "Nova versão com sistema de login, licenciamento e atualizações automáticas.",
+  "url": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v3.3.0/Quantyx.exe",
+  "force": true
 }
-
-
-
-
-
-
-
-
-
