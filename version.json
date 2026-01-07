@@ -1,9 +1,10 @@
 {
-  "version": "3.3.3",
-  "changelog": "Nova versão com sistema de login, licenciamento e atualizações automáticas.",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.3.3/Quantyx.exe",
+  "version": "3.3.4",
+  "changelog": "Correção na forma de envio de mensagem entre outras correções.",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.3.4/Quantyx.exe",
   "force": true
 }
+
 
 
 
