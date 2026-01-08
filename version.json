@@ -1,9 +1,10 @@
 {
-  "version": "3.3.6",
-  "changelog": "Correção na forma de envio de mensagem e layout visual do minha conta.",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.3.6/Quantyx.exe",
+  "version": "3.3.7",
+  "changelog": "Bem vindo! Correção feita no Layout "MINHA CONTA" e funções do ROBO.",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.3.7/Quantyx.exe",
   "force": true
 }
+
 
 
 
