@@ -1,9 +1,10 @@
 {
-  "version": "3.4.5",
-  "changelog": "Atualizaçã Concluida, alterações no PADRÃO DE ENVIO",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.4.5/Quantyx.exe",
+  "version": "3.4.7",
+  "changelog": "CORREÇÃO AUTO UPDATER CORRIGIDO, BOM USO!",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.4.7/Quantyx.exe",
   "force": true
 }
+
 
 
 
