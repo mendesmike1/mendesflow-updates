@@ -1,9 +1,10 @@
 {
-  "version": "3.5.0",
-  "changelog": "CORREÇÃO AUTO UPDATER CORRIGIDO e FORMA DE ENVIO, BOM USO!",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.5.0/Quantyx_3.5.0.exe",
+  "version": "3.5.1",
+  "changelog": "CORREÇÃO CHROME DRIVER",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.5.1/Quantyx_3.5.1.exe",
   "force": true
 }
+
 
 
 
