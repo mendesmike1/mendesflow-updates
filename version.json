@@ -1,9 +1,10 @@
 {
-  "version": "3.6.8",
-  "changelog": "CORREÇÃO UPDATER  & Formas de envio aprimoradas",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.6.8/Quantyx_3.6.8.exe",
+  "version": "3.6.9",
+  "changelog": "Corrigido BUGS no Padrão de envio",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.6.9/Quantyx_3.6.9.exe",
   "force": true
 }
+
 
 
 
