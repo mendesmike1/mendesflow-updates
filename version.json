@@ -1,9 +1,10 @@
 {
-  "version": "3.8.9",
-  "changelog": "CORREÇÕES NO FORMATO DE ENVIO + BUGS INTERNOS.",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.8.9/Quantyx.exe",
+  "version": "3.9.0",
+  "changelog": "Envio de imagem corrigido, dias restantes corrigido",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.9.0/Quantyx.exe",
   "force": true
 }
+
 
 
 
