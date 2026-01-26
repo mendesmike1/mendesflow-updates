@@ -1,9 +1,10 @@
 {
-  "version": "3.9.0",
-  "changelog": "Envio de imagem corrigido, dias restantes corrigido",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.9.0/Quantyx.exe",
+  "version": "3.9.1",
+  "changelog": "Envio de imagem corrigido, TELA QR CODE Resolvido.",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.9.1/Quantyx.exe",
   "force": true
 }
+
 
 
 
