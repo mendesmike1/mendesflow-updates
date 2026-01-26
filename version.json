@@ -1,6 +1,7 @@
 {
-  "version": "3.9.5",
+  "version": "3.9.6",
   "changelog": "Envio de imagem corrigido.\nTela QR Code resolvida.\nMelhorias de estabilidade no navegador.\nCorreções gerais de envio.",
-  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.9.5/Quantyx.exe",
+  "url": "https://github.com/mendesmike1/mendesflow-updates/releases/download/v3.9.6/Quantyx.exe",
   "force": true
 }
+
